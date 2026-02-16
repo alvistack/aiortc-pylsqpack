@@ -1,0 +1,5 @@
+python-pylsqpack source: file-without-copyright-information
+python-pylsqpack source: no-debian-changes
+python-pylsqpack source: source-contains-prebuilt-windows-binary
+python-pylsqpack source: source-is-missing
+python-pylsqpack source: source-package-encodes-python-version
