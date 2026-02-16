@@ -1,0 +1,4 @@
+python3-pylsqpack: copyright-without-copyright-notice
+python3-pylsqpack: initial-upload-closes-no-bugs
+python3-pylsqpack: no-manual-page
+python3-pylsqpack: zero-byte-file-in-doc-directory
